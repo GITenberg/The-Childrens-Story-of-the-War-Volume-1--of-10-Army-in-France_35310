@@ -1,0 +1,28 @@
+_repo: The-Childrens-Story-of-the-War-Volume-1--of-10-Army-in-France_35310
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parrott, Edward
+    alias: Parrott, James Edward
+    birthdate: 1863
+    deathdate: 1921
+    gutenberg_agent_id: '37589'
+    url: http://www.gutenberg.org/2009/agents/37589
+description: ''
+gutenberg_issued: '2011-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Juvenile literature'
+title: "The Childrens' Story of the War, Volume 1 (of 10)\r\nFrom the Beginning of\
+  \ the War to the Landing of the British Army in France"
+url: http://www.gutenberg.org/ebooks/35310
